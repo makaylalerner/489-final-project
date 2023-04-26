@@ -13,13 +13,20 @@ While this project is primarily for fun, it will provide detailed information ab
 ## Timeline (Innovative View) 
 The first data view will be a timeline starting at Taylor's debut album, Taylor Swift, in 2006 and to the present, her most recent released album, Midnights in 2022, and the albums she has been reproducing as "Taylor's Version": Fearless and Red, also in 2022 and still going. Years should be labeled, using the release date of each album as the stopping point. Above each year, album images will be used to label, with hover links having the album title. The order is as follows: 
 
-2006 - Debut/Self-Titled Album 
-2008 - Fearless 
-2010 - Speak Now
-2012 - RED 
-2014 - 1989 
-2017 - Reputation 
-2019 - Lover 
-2020 - Folklore and Evermore 
-2021 - Taylor's Version Starts (Ongoing) 
-2022 - Midnights 
+* 2006 - Debut/Self-Titled Album 
+* 2008 - Fearless 
+* 2010 - Speak Now
+* 2012 - RED 
+* 2014 - 1989 
+* 2017 - Reputation 
+* 2019 - Lover 
+* 2020 - Folklore and Evermore 
+* 2021 - Taylor's Version (Ongoing) 
+* 2022 - Midnights 
+
+## Second View: Album/Era Profile
+Upon clicking on each album, the next view appears, to look at stats on the album/era level. Displays the top three hits from that album, by number of song streams. Then, it looks at the average of several attributes (to be determined) on that album/era level. A picture of Taylor performing will be displayed here, possibly with a good quote on the top before the data. 
+
+## Third View: Overview of her career 
+After clicking through the albums/eras, an overview will be presented, showing the top songs overall and overall statistics. 
+
