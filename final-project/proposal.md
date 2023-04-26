@@ -9,3 +9,17 @@ I am using a kaggle dataset that was sourced from the Spotify API. The link for 
 
 ## Usage scenarios and tasks
 While this project is primarily for fun, it will provide detailed information about Taylor Swift's music throughout her career. It can be used to find out what the top song of each of her era's was, as well as the top song of her career. It will also provide analysis comparing her albums and see how these metrics have changed since her debut in 2006. 
+
+## Timeline (Innovative View) 
+The first data view will be a timeline starting at Taylor's debut album, Taylor Swift, in 2006 and to the present, her most recent released album, Midnights in 2022, and the albums she has been reproducing as "Taylor's Version": Fearless and Red, also in 2022 and still going. Years should be labeled, using the release date of each album as the stopping point. Above each year, album images will be used to label, with hover links having the album title. The order is as follows: 
+
+2006 - Debut/Self-Titled Album 
+2008 - Fearless 
+2010 - Speak Now
+2012 - RED 
+2014 - 1989 
+2017 - Reputation 
+2019 - Lover 
+2020 - Folklore and Evermore 
+2021 - Taylor's Version Starts (Ongoing) 
+2022 - Midnights 
