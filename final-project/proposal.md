@@ -27,6 +27,6 @@ The first data view will be a timeline starting at Taylor's debut album, Taylor 
 ## Second View: Album/Era Profile
 Upon clicking on each album, the next view appears, to look at stats on the album/era level. Displays the top three hits from that album, by number of song streams. Then, it looks at the average of several attributes (to be determined) on that album/era level. A picture of Taylor performing will be displayed here, possibly with a good quote on the top before the data. 
 
-## Third View: Overview of her career 
+## Third View: Overview of Her Career 
 After clicking through the albums/eras, an overview will be presented, showing the top songs overall and overall statistics. 
 
